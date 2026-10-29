@@ -8,7 +8,7 @@
 
 🟦 Play from one screen · 🟩 Connect an audience · 🩷 Make it a team thing
 
-[**▶ Open the game**](https://out-of-office-0z5v.onrender.com/)
+[**▶ Open the game**](https://out-of-office-0z5v.onrender.com/)  <-- click this link to play
 
 **50 corporate phrases · 20, 30 or 40 seconds · No player accounts**
 
