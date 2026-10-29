@@ -1,0 +1,15 @@
+{
+  "name": "out-of-office",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Private cross-device corporate charades, without dependencies",
+  "engines": {
+    "node": ">=22.9.0"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js",
+    "test": "node --test",
+    "dev": "node server.js"
+  }
+}
